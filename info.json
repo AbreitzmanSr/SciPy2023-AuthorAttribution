@@ -1,0 +1,11 @@
+{
+    "authors": [
+        {
+            "name": "Anthony Breitzman",
+            "affiliation": "Rowan University",
+            "orcid": "0000-0001-9522-9980"
+        }
+    ],
+    "title": "An Accessible Python based Author Identification Process",
+    "description": "Author identification process using Python"
+}
